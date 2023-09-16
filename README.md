@@ -4,7 +4,7 @@ Epic Print on Demand is a Print On Demand Platform to offer Epic Print products 
 
 if you are an Epic Print employee and are looking for our catalog guide [click here](./docs/catalog-guilde.md)
 
-## Signup up
+## Signing up
 
 The fist step in using EPOD is going to be signing up for a Merchant Account. Visit [internal.epicprint.dev/app/merchant](https://internal.epicprint.dev/app/merchant) and click "create an account". Or sign in if you already have a merchant account.
 
