@@ -18,7 +18,7 @@ This installation link expires from time to time, so if you have any issues reac
 
 After you have successfully installed the app you will be directed to a shopify. You will need to add our App Blocks to your storefront in order to surface EPOD products and Cart to your customers.
 
-To do so follow these steps
+To do so follow these steps or [watch our video](./videos/installation.mov)
 
 1. Click customize on the online store tab.
    ![Customize your store](./images/customize.png)
@@ -27,3 +27,24 @@ To do so follow these steps
 3. Add the Product Builder App Block to your Product Page.
    ![Add Builder](./images/add-builder.gif)
 4. Visit the cart page to add the Cart app block
+   ![Add Cart](./images/add-cart.gif)
+5. Enable the Cart Watcher App Embed so that your cart icon displays the correct number of products in the cart.
+   ![Add Cart Watcher](./images/add-cart-watcher.gif)
+
+And you are all done with the installation! Next up we will learn how to list a product.
+
+## Adding a Product to your Merchant account
+
+Now that you have EPOD installed on your merchant store, let's select a product form the catalog and list it on our store!
+
+Follow along with these steps, or [watch our video](./videos/list-product.mov)
+
+1. Visit the [Products Page](https://internal.epicprint.dev/app/merchant/products) to select a product to add to your account. Click the Browse Catalog button and then select from the list presented. For this Demo we are going to choose "mug" from the catalog. If you need to go ahead and search for it.
+   ![Add Mug](./images/add-mug.gif)
+2. Click on the product you just added. Here you can manage Title, Description, Variants, and Listings. We are only interested in listing the product here so click on the + Listing button near the bottom.
+   ![Add To Store](./images/add-to-store.png)
+3. Now the last thing to do is to click "publish"
+   ![Publish](./images/publish.png)
+
+That's it! Now your mug product is listed in your shopify store. If you were to view that product on your storefront it should look like this!
+![Mug on Store](./images/mug-on-store.png)
