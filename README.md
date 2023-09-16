@@ -2,7 +2,7 @@
 
 Epic Print on Demand is a Print On Demand Platform to offer Epic Print products for sale.
 
-if you are looking for our catalog guide [click here](./docs/catalog-guilde.md)
+if you are an Epic Print employee and are looking for our catalog guide [click here](./docs/catalog-guilde.md)
 
 ## Signup up
 
