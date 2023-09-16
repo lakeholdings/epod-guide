@@ -2,6 +2,8 @@
 
 Epic Print on Demand is a Print On Demand Platform to offer Epic Print products for sale.
 
+if you are looking for our catalog guide [click here](./docs/catalog-guilde.md)
+
 ## Signup up
 
 The fist step in using EPOD is going to be signing up for a Merchant Account. Visit [internal.epicprint.dev/app/merchant](https://internal.epicprint.dev/app/merchant) and click "create an account". Or sign in if you already have a merchant account.
@@ -37,7 +39,7 @@ And you are all done with the installation! Next up we will learn how to list a 
 
 Now that you have EPOD installed on your merchant store, let's select a product form the catalog and list it on our store!
 
-Follow along with these steps, or [watch our video](./videos/list-product.mov)
+Follow along with these steps, or [watch our video](./videos/list-mug.mov)
 
 1. Visit the [Products Page](https://internal.epicprint.dev/app/merchant/products) to select a product to add to your account. Click the Browse Catalog button and then select from the list presented. For this Demo we are going to choose "mug" from the catalog. If you need to go ahead and search for it.
    ![Add Mug](./images/add-mug.gif)
