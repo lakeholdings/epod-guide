@@ -50,3 +50,31 @@ Follow along with these steps, or [watch our video](./videos/list-mug.mov)
 
 That's it! Now your mug product is listed in your shopify store. If you were to view that product on your storefront it should look like this!
 ![Mug on Store](./images/mug-on-store.png)
+
+## Managing Scenes for Products
+
+So far we've listed a product with the default scene that it has in the catalog. EPOD has very powerful scene editing that put you in complete control of how your customers build a customized product variant.
+
+Scenes exist per variant, so if you would like to change a scene simply visit the product and then click on the variant you want to edit.
+
+Follwo the steps below or [watch our video](./videos/scene-editing.mov)
+
+1. Once on a variant page click "edit" on the scene you would like to change as shown below.
+   ![Select Scene](./images/select-scene.png)
+2. Now you are in the scene builder. For this example let's change the scene to be very basic. I'm going to change the scene so that it's only a blue background with a rectangular area for customers to upload images to. The steps will be to delete the scene, create a new scene with a blue background, then create a placment area as shown below.
+   ![Blue Scene](./images/blue-scene-creation.gif)
+
+Now that you've updated the scene, if you view the product on your store that vairant will display the scene you created. It will look like this
+![Blue Scene Mug](./images/blue-scene-mug.png)
+
+## Customer Orders
+
+So far we've seen how to install EPOD, add the product builder and cart to the store, List products and modify scenes. Now we are going to go through placing an order as a customer. Everything should now work end to end. New orders will flow into Epic Prints fulfillment pipeline to be manufactured and shipped to your end customer.
+
+Purchasing a product is as easy as uploading an image to the product and selecing add to cart. [watch our video](./videos/purchase-product.mov) or view the screenshot below.
+
+![Add to Cart](./images/add-to-cart.gif)
+
+![Checkout](./images/checkout.gif)
+
+After a customer has purchased an order. Orders can be seen from the merchant dashboard or the orders page at [Orders Page](https://staging.epicprint.dev/app/merchant/orders/dashboard)
