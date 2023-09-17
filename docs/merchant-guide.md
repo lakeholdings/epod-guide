@@ -20,7 +20,7 @@ This installation link expires from time to time, so if you have any issues reac
 
 After you have successfully installed the app you will be directed to a shopify. You will need to add our App Blocks to your storefront in order to surface EPOD products and Cart to your customers.
 
-To do so follow these steps or [watch our video](./videos/installation.mov)
+To do so follow these steps or [watch our video (Comming Soon)](./videos/installation.mov)
 
 1. Click customize on the online store tab.
    ![Customize your store](../images/customize.png)
@@ -39,7 +39,7 @@ And you are all done with the installation! Next up we will learn how to list a 
 
 Now that you have EPOD installed on your merchant store, let's select a product form the catalog and list it on our store!
 
-Follow along with these steps, or [watch our video](./videos/list-mug.mov)
+Follow along with these steps, or [watch our video (Comming Soon)](./videos/list-mug.mov)
 
 1. Visit the [Products Page](https://internal.epicprint.dev/app/merchant/products) to select a product to add to your account. Click the Browse Catalog button and then select from the list presented. For this Demo we are going to choose "mug" from the catalog. If you need to go ahead and search for it.
    ![Add Mug](../images/add-mug.gif)
@@ -57,7 +57,7 @@ So far we've listed a product with the default scene that it has in the catalog.
 
 Scenes exist per variant, so if you would like to change a scene simply visit the product and then click on the variant you want to edit.
 
-Follwo the steps below or [watch our video](./videos/scene-editing.mov)
+Follwo the steps below or [watch our video (Comming Soon)](./videos/scene-editing.mov)
 
 1. Once on a variant page click "edit" on the scene you would like to change as shown below.
    ![Select Scene](../images/select-scene.png)
@@ -71,7 +71,7 @@ Now that you've updated the scene, if you view the product on your store that va
 
 So far we've seen how to install EPOD, add the product builder and cart to the store, List products and modify scenes. Now we are going to go through placing an order as a customer. Everything should now work end to end. New orders will flow into Epic Prints fulfillment pipeline to be manufactured and shipped to your end customer.
 
-Purchasing a product is as easy as uploading an image to the product and selecing add to cart. [watch our video](./videos/purchase-product.mov) or view the screenshot below.
+Purchasing a product is as easy as uploading an image to the product and selecing add to cart. [watch our video (Comming Soon)](./videos/purchase-product.mov) or view the screenshot below.
 
 ![Add to Cart](../images/add-to-cart.gif)
 
