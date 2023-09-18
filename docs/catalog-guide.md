@@ -31,6 +31,7 @@ Placements are defined as
 this means that the only customer designs that can be accepted will be linked to placements.
 
 Placements accept the following attributes.
+
 ![Placement Popup](../images/placements.png)
 
 ### Config values
